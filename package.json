@@ -1,7 +1,7 @@
 {
-  "name": "file-loader",
-  "version": "0.8.5",
-  "author": "Tobias Koppers @sokra",
+  "name": "ignore-file-loader",
+  "version": "1.0.0",
+  "author": "Kevin Simper",
   "description": "file loader module for webpack",
   "files": [
     "index.js"
